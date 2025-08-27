@@ -1,0 +1,13 @@
+.main {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--backColor-light-mainPart);
+    padding: 35px 30px;
+}
+
+/* .section {
+    width: 100%;
+    display: grid;
+    gap: 10px;
+} */

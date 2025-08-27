@@ -1,0 +1,10 @@
+:root {
+    --backColor-nav: #ffffff;
+    --backColor-exit-button: #faf3ed;
+    --backColor-top-button: #ecedfe;
+    --backColor-bottom-button: #fbf3ed;
+    --backColor-active-button: #f7fdfb;
+    --enabled-button: #254cff;
+    --disabled-button: #b7b4b4;
+    --exit-button: #cf8269;
+}

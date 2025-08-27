@@ -1,7 +1,17 @@
 import "./App.css";
+import { Route, Routes } from "react-router-dom";
+
+// import components
+import MainPage from "./page/main/MainPage";
 
 function App() {
-    return <></>;
+    return (
+        <>
+            <Routes>
+                <Route path="/" element={<MainPage />} />
+            </Routes>
+        </>
+    );
 }
 
 export default App;

@@ -32,3 +32,20 @@ em {
     font-weight: normal;
     font-style: normal;
 }
+
+button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline: inherit;
+}
+
+input {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    outline: none;
+}
